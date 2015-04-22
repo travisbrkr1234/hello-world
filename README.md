@@ -1,5 +1,3 @@
-hello-world
+HelloWorld
 ===========
-This is perty neat
-
-hello-world
+Collaboration on the example entry java program called HelloWorld
